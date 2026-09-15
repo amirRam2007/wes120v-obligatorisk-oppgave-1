@@ -1,4 +1,6 @@
-## Prosjektstatus
+## Dokumentasjon
+
+Dette prosjektet er laget som en del av WES120V.## Prosjektstatus
 
 Prosjektet er satt opp med Vite og kan kjøres lokalt med pnpm.# WES120V – Obligatorisk oppgave 1
 
