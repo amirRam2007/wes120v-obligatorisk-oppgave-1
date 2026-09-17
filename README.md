@@ -16,4 +16,4 @@ pnpm dev
 
 Deretter åpner du http://localhost:5173/
 
-<img width="1911" height="1027" alt="image" src="https://github.com/user-attachments/assets/15710e62-d1ae-40f6-b571-e08189f0af22" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/15710e62-d1ae-40f6-b571-e08189f0af22" />
