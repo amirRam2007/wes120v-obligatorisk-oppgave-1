@@ -4,23 +4,23 @@ Dette er prosjektet mitt i WES120V.
 
 ## Dokumentasjon
 
-Dette prosjektet er laget som en del av den obligatoriske oppgaven. Jeg startet med å sette opp prosjektet og bruke Vite. Vite brukes for å lage og kjøre prosjektet lokalt.
+I denne oppgaven har jeg satt opp et prosjekt med Vite. Jeg brukte terminalen til å gjøre det meste av arbeidet.
 
-Jeg brukte terminalen til å sette opp prosjektet og installere det jeg trengte. Jeg måtte blant annet ha Node.js og pnpm for å kunne installere pakkene og kjøre prosjektet.
+Først måtte jeg få på plass Node.js og pnpm. Dette trengte jeg for å kunne installere pakkene og kjøre prosjektet. Etter at det var klart, brukte jeg `pnpm install` for å installere det prosjektet trenger.
 
-Etter at jeg hadde installert det jeg trengte, brukte jeg `pnpm install` for å installere pakkene i prosjektet. Jeg brukte også `pnpm dev` for å starte prosjektet og sjekke nettsiden i nettleseren.
+Jeg brukte også `pnpm dev` for å starte prosjektet. Da fikk jeg en lokal adresse i terminalen som jeg kunne åpne i nettleseren for å se nettsiden.
 
 ## Git
 
-Jeg har brukt Git for å lagre det jeg har gjort underveis. Når jeg har gjort endringer i prosjektet, har jeg brukt Git til å lagre disse endringene.
+Jeg har brukt Git underveis for å holde styr på endringene jeg har gjort. Jeg har laget commits etter forskjellige endringer, slik at jeg kan se hva som har blitt gjort.
 
-Jeg har også brukt commits for å kunne se hva som har blitt endret. Dette gjør det lettere å ha oversikt over prosjektet og gå tilbake til tidligere endringer hvis det skulle være nødvendig.
+Jeg lærte også hvordan man kan bruke branches. Jeg laget blant annet branchen `dokumenter-prosjekt` for å jobbe med dokumentasjonen. Etterpå ble endringene lagt inn i `main`.
 
 ## GitHub
 
-Jeg har lagt prosjektet mitt på GitHub. Der ligger prosjektet lagret på nettet. Jeg kan bruke Git til å sende endringer fra PC-en min til GitHub.
+Jeg har brukt GitHub til å lagre prosjektet på nettet. Jeg brukte Git til å sende prosjektet og endringene fra PC-en min til GitHub.
 
-Jeg har også brukt en branch i prosjektet. Dette gjorde jeg for å kunne jobbe med endringer uten å endre hovedversjonen med en gang. Etterpå kunne jeg slå sammen endringene med `main`.
+På GitHub ligger prosjektet mitt, og der kan jeg se filene, commits og branches.
 
 ## Forutsetninger
 
@@ -32,13 +32,11 @@ For å kjøre prosjektet trenger du:
 
 ## Installere prosjektet
 
-Når prosjektet er lastet ned, må pakkene installeres først. Dette gjøres i terminalen:
+Etter at prosjektet er lastet ned, må pakkene installeres. Dette gjøres i terminalen:
 
 ```bash
 pnpm install
 ```
-
-Denne kommandoen laster ned pakkene som prosjektet trenger.
 
 ## Starte prosjektet
 
@@ -48,10 +46,10 @@ For å starte prosjektet bruker jeg:
 pnpm dev
 ```
 
-Når prosjektet starter, får jeg en lokal adresse i terminalen. Jeg kan åpne denne adressen i nettleseren for å se nettsiden.
+Når prosjektet starter, viser terminalen en lokal adresse. Denne kan åpnes i nettleseren for å se nettsiden.
 
 ## Prosjektstatus
 
-Prosjektet er satt opp med Vite og kan kjøres lokalt. Jeg har brukt terminalen til å installere og kjøre prosjektet. Jeg har også brukt Git og GitHub til å lagre og holde oversikt over arbeidet mitt.
+Prosjektet er satt opp med Vite og kan kjøres lokalt. Jeg har brukt terminalen til å installere og starte prosjektet, og jeg har brukt Git og GitHub til å holde styr på arbeidet.
 
-Jeg har underveis lært hvordan jeg kan bruke terminalen, Git, branches, commits og GitHub sammen med prosjektet.
+Jeg har også lært mer om commits, branches og hvordan man sender endringer til GitHub.
