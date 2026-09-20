@@ -34,17 +34,16 @@ For å kjøre prosjektet trenger du:
 
 Etter at prosjektet er lastet ned, må pakkene installeres. Dette gjøres i terminalen:
 
-```bash
+bash
 pnpm install
-```
 
 ## Starte prosjektet
 
 For å starte prosjektet bruker jeg:
 
-```bash
+bash
 pnpm dev
-```
+
 
 Når prosjektet starter, viser terminalen en lokal adresse. Denne kan åpnes i nettleseren for å se nettsiden.
 
