@@ -1,8 +1,8 @@
-# WES120V – Obligatorisk oppgave 1
+WES120V – Obligatorisk oppgave 1
 
 Dette er prosjektet mitt i WES120V.
 
-## Dokumentasjon
+Dokumentasjon
 
 I denne oppgaven har jeg satt opp et prosjekt med Vite. Jeg brukte terminalen til å gjøre det meste av arbeidet.
 
@@ -10,19 +10,19 @@ Først måtte jeg få på plass Node.js og pnpm. Dette trengte jeg for å kunne 
 
 Jeg brukte også pnpm dev for å starte prosjektet. Da fikk jeg en lokal adresse i terminalen som jeg kunne åpne i nettleseren for å se nettsiden.
 
-## Git
+ Git
 
 Jeg har brukt Git underveis for å holde styr på endringene jeg har gjort. Jeg har laget commits etter forskjellige endringer, slik at jeg kan se hva som har blitt gjort.
 
 Jeg lærte også hvordan man kan bruke branches. Jeg laget blant annet branchen dokumenter-prosjekt for å jobbe med dokumentasjonen. Etterpå ble endringene lagt inn i main.
 
-## GitHub
+ GitHub
 
 Jeg har brukt GitHub til å lagre prosjektet på nettet. Jeg brukte Git til å sende prosjektet og endringene fra PC-en min til GitHub.
 
 På GitHub ligger prosjektet mitt, og der kan jeg se filene, commits og branches.
 
-## Forutsetninger
+ Forutsetninger
 
 For å kjøre prosjektet trenger du:
 
