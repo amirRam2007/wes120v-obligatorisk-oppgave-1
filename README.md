@@ -26,9 +26,9 @@ På GitHub ligger prosjektet mitt, og der kan jeg se filene, commits og branches
 
 For å kjøre prosjektet trenger du:
 
-* Node.js
-* pnpm
-* Git
+Node.js
+pnpm
+Git
 
 Installere prosjektet:
 
@@ -47,7 +47,7 @@ pnpm dev
 
 Når prosjektet starter, viser terminalen en lokal adresse. Denne kan åpnes i nettleseren for å se nettsiden.
 
-## Prosjektstatus
+Prosjektstatus:
 
 Prosjektet er satt opp med Vite og kan kjøres lokalt. Jeg har brukt terminalen til å installere og starte prosjektet, og jeg har brukt Git og GitHub til å holde styr på arbeidet.
 
